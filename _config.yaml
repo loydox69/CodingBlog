@@ -1,0 +1,38 @@
+# _config.yml
+
+# Site settings
+title: Your Blog Title
+description: A brief description of your blog
+url: "https://<your-username>.github.io"
+baseurl: "" # Leave this empty for GitHub Pages
+
+# Build settings
+theme: jekyll-theme-minimal # Replace with the name of your chosen theme
+
+# GitHub Pages settings
+markdown: kramdown
+remote_theme: # If using a remote theme, specify the theme repository
+  - <theme-author>/<theme-repository>
+
+plugins:
+  - jekyll-feed
+
+# Optional settings
+author:
+  name: Your Name
+  email: your.email@example.com
+  bio: A short bio about yourself
+
+# Navigation links
+nav:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+
+# Social links
+social:
+  - title: GitHub
+    url: https://github.com/<your-username>
+  - title: Twitter
+    url: https://twitter.com/your_twitter_handle
