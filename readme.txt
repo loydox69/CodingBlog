@@ -1,1 +1,1 @@
-This repository is used for writing blogs
+This repository is used for writing coding blogs 
