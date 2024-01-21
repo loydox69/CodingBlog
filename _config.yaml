@@ -4,7 +4,7 @@
 title: Your Blog Title
 description: A brief description of your blog
 url: "https://loydox69.github.io"
-baseurl: "/docs/TestJekyll" # Leave this empty for GitHub Pages
+baseurl: "" # Leave this empty for GitHub Pages
 
 # Build settings
 theme: jekyll-theme-minimal # Replace with the name of your chosen theme
